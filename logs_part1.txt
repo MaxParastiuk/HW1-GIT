@@ -1,0 +1,9 @@
+f9ab37d (HEAD -> master, origin/master, develop) HEAD@{0}: merge develop: Fast-forward
+e6daa31 HEAD@{1}: checkout: moving from develop to master
+f9ab37d (HEAD -> master, origin/master, develop) HEAD@{2}: merge feature2: Merge made by the 'recursive' strategy.
+d7c39fd (origin/feature1, feature1) HEAD@{3}: merge feature1: Fast-forward
+88070ae (origin/develop) HEAD@{4}: checkout: moving from feature2 to develop
+a2971f4 (origin/feature2, feature2) HEAD@{5}: commit: feature2: first commit
+88070ae (origin/develop) HEAD@{6}: checkout: moving from develop to feature2
+88070ae (origin/develop) HEAD@{7}: checkout: moving from feature1 to develop
+d7c39fd (origin/feature1, feature1) HEAD@{8}: commit: feature1: second commit
